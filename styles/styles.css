@@ -703,6 +703,10 @@ section {
   .container {
     padding: 0.2rem;
   }
+
+  #hideText {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 1070px) {
